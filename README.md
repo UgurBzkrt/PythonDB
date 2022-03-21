@@ -1,2 +1,2 @@
 # PythonDB
-Reading and printing from database with python
+Reading and printing from database with python.
